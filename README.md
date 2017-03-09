@@ -1,9 +1,5 @@
 # TSA! [![Build status](https://ci.appveyor.com/api/projects/status/u2p01nx7l6og8buh?svg=true)](https://ci.appveyor.com/project/peppy/osu)
 
-
-
-[Resources](https://osu.ppy.sh)
-
 MTHS TSA 2017 - Team 7200 - Video Game Design Entry
 
 # Status
